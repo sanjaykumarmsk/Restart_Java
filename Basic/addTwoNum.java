@@ -1,5 +1,5 @@
 import java.util.*;
-public class Pro_02 {
+public class addTwoNum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of a anb b : ");
